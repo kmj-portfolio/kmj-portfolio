@@ -1,10 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=B3C734&height=250&section=header&text=My%20GitHub!&&animation=scaleIn&fontSize=65&desc=Hello,%20This%20is&descAlign=50&descAlignY=25&descSize=25)
+![header](https://capsule-render.vercel.app/api?type=waving&color=B3C734&height=250&section=header&text=Miji's%20GitHub!&&animation=scaleIn&fontSize=65&desc=Hello,%20This%20is&descAlign=50&descAlignY=25&descSize=25)
 
 <div align=center>
-개발자 김미지 입니다😊<br>
-사용자의 관점에서 불편한 기능을 개선하여 더 편리한 서비스를 만드는 개발자가 되고싶습니다. 
-  
+공감하는 개발자 김미지 입니다😊<br>
+사용자의 관점에서 불편한 기능을 개선하여 더 편리한 제공하는 개발자가 되고싶습니다. 
+
 <br><br><br>
+
+이 계정은 포트폴리오용 개정입니다. 학습용 계정은 이곳에 있습니다. <br>
+https://github.com/kimkimj
 
 <div align=center>
   <h3>:zap: Skills </h3>
