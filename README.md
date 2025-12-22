@@ -8,6 +8,7 @@
 
 이 계정은 포트폴리오용 개정입니다. 학습용 계정은 이곳에 있습니다. <br>
 https://github.com/kimkimj
+<br><br>
 
 <div align=center>
   <h3>:zap: Skills </h3>
