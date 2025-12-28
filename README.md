@@ -28,7 +28,6 @@ https://github.com/kimkimj
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=greente)](https://solved.ac/{handle})
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=greente&theme=warm)
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=B3C734&section=footer)
