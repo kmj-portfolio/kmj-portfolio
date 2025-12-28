@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=B3C734&height=250&section=header&text=Miji's%20GitHub!&&animation=scaleIn&fontSize=65&desc=Hello,%20This%20is&descAlign=50&descAlignY=25&descSize=25)
 
 <div align=center>
-공감하는 개발자 김미지 입니다😊<br>
+<b>공감하는 개발자 김미지 입니다😊</b><br>
 사용자의 관점에서 불편한 기능을 개선하여 더 편리한 서비스를 제공하는 개발자가 되고싶습니다. 
 
 <br><br><br>
